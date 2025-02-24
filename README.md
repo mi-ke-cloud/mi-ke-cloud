@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mi-ke-cloud
+- 👋 Hi, I’m Michael walala 
 - 👀 I’m interested in computer technology 
 - 🌱 I’m currently learning computer programming 
 - 💞️ I’m looking to collaborate on the next programming project
